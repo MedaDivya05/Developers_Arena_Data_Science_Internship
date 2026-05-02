@@ -19,7 +19,7 @@ This project helped build a strong foundation in **Data Analysis**, which is an 
 
 ---
 
-# Project Goals and Objectives
+## Project Goals and Objectives
 
 The main goals of this project were:
 
@@ -34,7 +34,7 @@ The main goals of this project were:
 
 ---
 
-# Technologies Used
+## Technologies Used
 
 - **Google Colab** / Jupyter Notebook
 - **Pandas**
