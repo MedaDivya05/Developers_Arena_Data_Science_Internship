@@ -1,0 +1,4 @@
+Segment,Segment_Name,Accuracy,Precision,Recall,F1_Score,ROC_AUC
+1,Premium Spenders,1.0,1.0,1.0,1.0,1.0
+2,At-Risk Customers,0.9583333333333334,0.0,0.0,0.0,1.0
+0,Budget Conscious Customers,1.0,1.0,1.0,1.0,1.0
